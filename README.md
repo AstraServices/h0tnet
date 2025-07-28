@@ -1,35 +1,80 @@
-# h0tnet - SCRIPTS ONLY WORKS ON PC
+# h0tnet - SCRIPTS ONLY WORK ON PC
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Beta-yellow?style=for-the-badge" alt="Beta Status">
 </p>
 
-<p>
-  h0tnet is a repository where you can find many game scripts. (BETA)<br>
-  - Please notify me on Discord if any of the scripts get patched: <a href="https://discord.com/users/nypetrat">@nypetrat</a>
-</p>
-
-<hr>
-
-### ✨ Key Features & Script Info
-
-<p>
-  Currently, all scripts are <strong>keyless</strong>, providing instant access. However, please note that future scripts may implement a key system for added security or specific features.
-</p>
-
-#### Available Scripts:
+**h0tnet** is a repository where you can find many Roblox game scripts.  
+> ⚠️ **Only works on PC!**  
+> 📣 Please notify me on Discord if any of the scripts get patched: [@nypetrat](https://discord.com/users/nypetrat)
 
 ---
 
-#### 🐠 Steal A Fish! ([UPD] 1.0.3)
+## ✨ Key Features & Script Info
+
+- All scripts are currently **keyless**, providing instant execution.
+- Future updates may introduce key systems for security or access restrictions.
+- Scripts are actively updated and tested for stability.
+
+---
+
+## 📜 Available Scripts
+
+---
+
+### 🐠 Steal A Fish! `([UPD] 1.0.0.3)`
 
 **Features:**
-* **Insta Steal:** Instant item stealing (may take 5-10 seconds to process).
-* **Base Number (1-8):** Set your desired base for teleportation.
-* **TP to Base:** Teleport directly to your chosen base.
-* **Remove Glass:** Removes glass objects for better visibility/access.
-* **Auto Lock:** Automatically locks onto targets.
+- **Insta Steal:** Instantly steals items (may take 5–10 seconds to process).
+- **Base Number (1-8):** Choose the base to teleport to.
+- **TP to Base:** Instantly teleport to the selected base.
+- **Remove Glass:** Improves visibility by removing glass parts.
+- **Auto Lock:** Automatically locks onto target items.
 
 **Loadstring:**
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/AstraServices/h0tnet/refs/heads/main/stealafish.lua](https://raw.githubusercontent.com/AstraServices/h0tnet/refs/heads/main/stealafish.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/refs/heads/main/stealafish.lua"))()
+```
+
+---
+
+### 🛠️ Steal A Drill `1.0.0.0`
+
+**Features:**
+- **Insta Steal:** Instantly collects drills.
+- **TP to Base:** Quickly returns to the selected base.
+
+**Loadstring:**
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/refs/heads/main/stealadrill.lua"))()
+```
+
+---
+
+### 🥚 Steal An Egg `1.0.0.0`
+
+**Features:**
+- **Insta Steal:** Automatically collects nearby eggs.
+- **TP to Base:** Quick return to base with collected items.
+
+**Loadstring:**
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/refs/heads/main/stealaegg.lua"))()
+```
+
+---
+
+### 🎌 Steal Anime `1.0.0.0`
+
+**Features:**
+- **Insta Steal:** Grabs anime-themed collectibles quickly.
+- **TP to Base:** Instantly returns to your base.
+
+**Loadstring:**
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/refs/heads/main/stealanime.lua"))()
+```
+
+---
+
+> 💡 Need help or want to report a bug? Message me on Discord: [@nypetrat](https://discord.com/users/nypetrat)
