@@ -13,7 +13,7 @@
 ## ✨ Key Features & Script Info
 
 - All scripts are currently **keyless**, providing instant execution.
-- Future updates may introduce key systems for security or access restrictions.
+- Future updates may introduce key systems to support developers.
 - Scripts are actively updated and tested for stability.
 
 ---
@@ -28,8 +28,8 @@
 - **Insta Steal:** Instantly steals items (may take 5–10 seconds to process).
 - **Base Number (1-8):** Choose the base to teleport to.
 - **TP to Base:** Instantly teleport to the selected base.
-- **Remove Glass:** Improves visibility by removing glass parts.
-- **Auto Lock:** Automatically locks onto target items.
+- **Remove Glass:** You can enter people's by removing glass parts.
+- **Auto Lock:** Auto locks your base.
 
 **Game: https://www.roblox.com/games/72212564918217/UPD-Steal-A-Fish**
 
