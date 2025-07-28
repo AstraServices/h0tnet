@@ -22,7 +22,7 @@
 
 ---
 
-### 🐠 Steal A Fish! `1.0.0.3`
+### [UPD 😱] Steal A Fish! `1.0.0.3`
 
 **Features:**
 - **Insta Steal:** Instantly steals items (may take 5–10 seconds to process).
@@ -31,6 +31,7 @@
 - **Remove Glass:** Improves visibility by removing glass parts.
 - **Auto Lock:** Automatically locks onto target items.
 
+**Game: https://www.roblox.com/games/72212564918217/UPD-Steal-A-Fish**
 **Loadstring:**
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/refs/heads/main/stealafish.lua"))()
@@ -38,12 +39,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/
 
 ---
 
-### 🛠️ Steal A Drill `1.0.0.0`
+### [🔴] Steal a Drill `1.0.0.0`
 
 **Features:**
 - **Insta Steal:** Instantly steals drills from other players.
 - **TP to Base:** Instantly teleport to the selected base.
 
+**Game: https://www.roblox.com/games/107036885638483/Steal-a-Drill**
 **Loadstring:**
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/refs/heads/main/stealadrill.lua"))()
@@ -51,12 +53,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/
 
 ---
 
-### 🥚 Steal A Egg `1.0.0.0`
+### [🐦‍🔥] Steal a Egg `1.0.0.0`
 
 **Features:**
 - **Insta Steal:** Instantly steals eggs from other players.
 - **TP to Base:** Instantly teleport to the selected base.
 
+**Game: https://www.roblox.com/games/108053424714724/Steal-a-Egg**
 **Loadstring:**
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/refs/heads/main/stealaegg.lua"))()
@@ -64,12 +67,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/
 
 ---
 
-### 🎌 Steal Anime `1.0.0.0`
+### 🚨 Steal Anime! `1.0.0.0`
 
 **Features:**
 - **Insta Steal:** Instantly steals anime characters from other players.
 - **TP to Base:** Instantly teleport to the selected base.
 
+**Game: https://www.roblox.com/games/113995904598360/Steal-Anime**
 **Loadstring:**
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/refs/heads/main/stealanime.lua"))()
