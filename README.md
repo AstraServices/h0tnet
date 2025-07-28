@@ -22,7 +22,7 @@
 
 ---
 
-### 🐠 Steal A Fish! `([UPD] 1.0.0.3)`
+### 🐠 Steal A Fish! `1.0.0.3`
 
 **Features:**
 - **Insta Steal:** Instantly steals items (may take 5–10 seconds to process).
@@ -41,8 +41,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/
 ### 🛠️ Steal A Drill `1.0.0.0`
 
 **Features:**
-- **Insta Steal:** Instantly collects drills.
-- **TP to Base:** Quickly returns to the selected base.
+- **Insta Steal:** Instantly steals drills from other players.
+- **TP to Base:** Instantly teleport to the selected base.
 
 **Loadstring:**
 ```lua
@@ -51,11 +51,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/
 
 ---
 
-### 🥚 Steal An Egg `1.0.0.0`
+### 🥚 Steal A Egg `1.0.0.0`
 
 **Features:**
-- **Insta Steal:** Automatically collects nearby eggs.
-- **TP to Base:** Quick return to base with collected items.
+- **Insta Steal:** Instantly steals eggs from other players.
+- **TP to Base:** Instantly teleport to the selected base.
 
 **Loadstring:**
 ```lua
@@ -67,8 +67,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AstraServices/h0tnet/
 ### 🎌 Steal Anime `1.0.0.0`
 
 **Features:**
-- **Insta Steal:** Grabs anime-themed collectibles quickly.
-- **TP to Base:** Instantly returns to your base.
+- **Insta Steal:** Instantly steals anime characters from other players.
+- **TP to Base:** Instantly teleport to the selected base.
 
 **Loadstring:**
 ```lua
