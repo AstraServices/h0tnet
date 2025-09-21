@@ -5,7 +5,7 @@
 </p>
 
 **h0tnet** is a repository where you can find many Roblox game scripts.  
-> ⚠️ **Only works on PC!**  
+> ⚠️ **Only works on PC but some scripts can support mobile!**  
 > 📣 Please notify me on Discord if any of the scripts get patched: [@nypetrat](https://discord.com/users/nypetrat)
 
 ---
